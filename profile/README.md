@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/3483a538-ec3f-41fa-b4b5-ed56c08ce067" alt="voiidlfull" width="600"/>
+<img src="https://github.com/user-attachments/assets/3483a538-ec3f-41fa-b4b5-ed56c08ce067" alt="voiidlfull" width="500"/>
 
 ---------
 
